@@ -84,3 +84,4 @@ var test_data = [
 ];
 
 console.log( think( nj.array(test_data) ) );
+console.log("Hello World");
